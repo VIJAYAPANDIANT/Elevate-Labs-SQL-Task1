@@ -1,14 +1,14 @@
-# 📊 EL SQL Task1
+# Elevate Labs - SQL Task 1
 
-Welcome to **EL SQL Task1**! This project serves as a foundational guide for setting up a SQL environment and performing initial database operations. It covers the end-to-end process of database creation, schema definition, and data manipulation.
+Welcome to **SQL Task 1** of my Elevate Labs internship! This project demonstrates my ability to set up a SQL environment and perform fundamental database operations, including schema definition and data manipulation.
 
-## 🚀 Overview
+## 🎯 Task Objective
 
-This repository demonstrates the core concepts of SQL including:
-- **Environment Setup**: Initializing a fresh database.
-- **DDL (Data Definition Language)**: Defining table structures and constraints.
-- **DML (Data Manipulation Language)**: Inserting and managing data records.
-- **DQL (Data Query Language)**: Retrieving and filtering data efficiently.
+The primary goal of this task is to:
+- **Initialize**: Create and configure a local SQL database.
+- **Define Schema**: Design a robust table structure for student data.
+- **Populate**: Insert sample records to ensure data integrity.
+- **Query**: Perform basic CRUD-style operations to retrieve and filter information.
 
 ---
 
@@ -81,5 +81,5 @@ CREATE TABLE students (
 
 ---
 <p align="center">
-  Generated with ❤️ for SQL Learners
+  Submitted by: <b>Intern</b> | Elevate Labs SQL Internship Task 1
 </p>
