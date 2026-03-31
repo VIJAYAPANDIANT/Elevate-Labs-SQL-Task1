@@ -1,4 +1,4 @@
-# Elevate Labs - SQL Task 1
+# 📊 Elevate Labs - SQL Task 1
 
 Welcome to **SQL Task 1** of my Elevate Labs internship! This project demonstrates my ability to set up a SQL environment and perform fundamental database operations, including schema definition and data manipulation.
 
@@ -81,5 +81,5 @@ CREATE TABLE students (
 
 ---
 <p align="center">
-  Submitted by: <b>Intern</b> | Elevate Labs SQL Internship Task 1
+  Submitted by: <b>Vijayapandian T</b> | Elevate Labs SQL Internship Task 1
 </p>
